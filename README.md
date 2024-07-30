@@ -20,6 +20,7 @@ Automation & Data Analysis: Python 🐍 (RPA, data analysis)
 Tools: Selenium 🕷️, Tkinter 🖼️, Strapi CMS
 
 🚀 Experience Highlights
+
 Rede Primavera Saúde
 Developed monitoring software saving R$240,000/year
 Created automation tools saving R$30,000
@@ -34,9 +35,11 @@ Developed resource-saving Python tracking systems
 Managed inventory for multiple stores
 
 🎓 Education
+
 Software Engineering at Brigham Young University - Idaho
 
 📬 Get in Touch
+
 Email: daniel.amaral1928@outlook.com
 LinkedIn: linkedin.com/in/danielamaraldev
 Feel free to explore my projects and let's create something amazing together! 🚀
