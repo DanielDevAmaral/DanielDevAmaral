@@ -2,6 +2,7 @@
 I'm a Full-Stack Developer with a passion for crafting innovative and efficient solutions. With a proactive and self-taught mindset, I thrive on tackling new challenges and continuously enhancing my skills through diverse projects—both collaboratively and independently.
 
 🔧 Skills
+
 Frontend
 Languages: JavaScript 🟨
 Frameworks & Libraries: React.js, Tailwind CSS, SASS, MUI, Axios
