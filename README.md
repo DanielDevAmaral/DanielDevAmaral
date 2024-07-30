@@ -1,12 +1,38 @@
-👋 Hi there! I'm Daniel Amara 🇧🇷, a 23-year-old coding enthusiast hailing from Brazil, currently pursuing my B-degree at BYU Idaho. By day, I work my Python magic to bring automation to life in a hospital, ensuring efficiency and precision in healthcare.
+👋 Hello, I'm Daniel Amaral!
+I'm a Full-Stack Developer with a passion for crafting innovative and efficient solutions. With a proactive and self-taught mindset, I thrive on tackling new challenges and continuously enhancing my skills through diverse projects—both collaboratively and independently.
 
-💡 I'm a versatile developer with a passion for problem-solving. One of my proudest accomplishments was creating a Python program that identifies and automates document management, saving time and resources for my company.
+🔧 Skills
+Frontend
+Languages: JavaScript 🟨
+Frameworks & Libraries: React.js, Tailwind CSS, SASS, MUI, Axios
+Backend
+Languages: JavaScript 🟨, Python 🐍
+Frameworks: Node.js, Express.js
+Databases
+SQL: PostgreSQL 🐘, OracleDB 🏛️
+NoSQL: MongoDB 🍃
+Other
+Automation & Data Analysis: Python 🐍 (RPA, data analysis)
+Tools: Selenium 🕷️, Tkinter 🖼️, Strapi CMS
 
-🚀 My long-term goal is to master JavaScript and establish crucial connections in the tech industry. I aim to contribute to the world of technology and potentially collaborate with leading companies like Google.
+🚀 Experience Highlights
+Rede Primavera Saúde
+Developed monitoring software saving R$240,000/year
+Created automation tools saving R$30,000
+Designed a web app for insurance plan visualization
 
-🌅 When I'm not diving into code, you can find me enjoying the tranquility of a sunset, strumming my guitar, or immersed in the world of gaming.
+AgileSoft Solutions
+Built a user-friendly medical clinic management system
+Enhanced web platforms for SMBs
 
-📫 Let's connect and create something amazing together! Reach out to me at [Daniel.amaral1928@outlook.com](mailto:Daniel.amaral1928@outlook.com) or on [LinkedIn](https://www.linkedin.com/in/danielamaraldev/).
+Casa das Tintas
+Developed resource-saving Python tracking systems
+Managed inventory for multiple stores
 
-🔍 Curious, creative, and committed to making a difference through code. Welcome to my GitHub world! 🌟
+🎓 Education
+Software Engineering at Brigham Young University - Idaho
 
+📬 Get in Touch
+Email: daniel.amaral1928@outlook.com
+LinkedIn: linkedin.com/in/danielamaraldev
+Feel free to explore my projects and let's create something amazing together! 🚀
