@@ -5,12 +5,15 @@ I'm a Full-Stack Developer with a passion for crafting innovative and efficient 
 Frontend
 Languages: JavaScript 🟨
 Frameworks & Libraries: React.js, Tailwind CSS, SASS, MUI, Axios
+
 Backend
 Languages: JavaScript 🟨, Python 🐍
 Frameworks: Node.js, Express.js
+
 Databases
 SQL: PostgreSQL 🐘, OracleDB 🏛️
 NoSQL: MongoDB 🍃
+
 Other
 Automation & Data Analysis: Python 🐍 (RPA, data analysis)
 Tools: Selenium 🕷️, Tkinter 🖼️, Strapi CMS
