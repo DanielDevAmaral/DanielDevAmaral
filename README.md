@@ -22,8 +22,8 @@ Tools: Selenium 🕷️, Tkinter 🖼️, Strapi CMS
 🚀 Experience Highlights
 
 Rede Primavera Saúde
-Developed monitoring software saving R$240,000/year
-Created automation tools saving R$30,000
+Built a multi-number WhatsApp dashboard on existing hospital infrastructure, with approximately R$204,000/year in estimated avoided message-send charges (send charges only, not measured net savings).
+Built and deployed insurance-claim reconciliation automation using Python/Selenium and JavaScript/Puppeteer.
 Designed a web app for insurance plan visualization
 
 AgileSoft Solutions
@@ -36,7 +36,8 @@ Managed inventory for multiple stores
 
 🎓 Education
 
-Software Engineering at Brigham Young University - Idaho
+FIAP: Software Engineering, 2026–present (in progress; distance learning)
+Brigham Young University - Idaho: Software Engineering studies (paused; degree not completed)
 
 📬 Get in Touch
 
